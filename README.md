@@ -8,3 +8,5 @@ simulation from js need to improve math part to behave beter
 ![Screenshot from 2022-09-18 14-26-22](https://user-images.githubusercontent.com/33680014/190894171-736041c9-0a88-48f2-9d23-0558b80bab6f.png)
 ![Screenshot from 2022-09-18 14-29-01](https://user-images.githubusercontent.com/33680014/190894243-9b66b027-7adb-427b-916d-456ed2aae243.png)
 ![Screenshot from 2022-09-18 14-28-49](https://user-images.githubusercontent.com/33680014/190894244-785d6736-535e-4b59-8a1e-0a1d94dae6ce.png)
+
+inspired by https://github.com/hunar4321/particle-life
